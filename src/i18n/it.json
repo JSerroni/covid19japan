@@ -53,9 +53,10 @@
   "tested-percentage": "{{percent}}% dei testati sono positivi.",
   "active-cases": "Casi attivi",
   "no-active-cases": "Nessun caso attivo 🎉",
-  "time-period": "Time period",
-  "all-time": "All time",
-  "three-months": "3 months",
+  "time-period": "Periodo",
+  "all-time": "Totale",
+  "three-months": "3 mesi",
+  "active-cases-description": "Totale dei pazienti attualmente ancora positivi per il COVID-19. (Totale casi confermati meno il totale dei casi guariti).",
   "pseudo-prefectures": {
     "port-of-entry": "Porto di entrata",
     "unspecified": "Non specificato",
